@@ -2,6 +2,7 @@ body,h3,h4,h5 ,h6
 {
 	margin:0; 
 	
+	
 
 }
 h1 { 
@@ -12,7 +13,8 @@ h1 {
 .container
 {
 	margin: 0px auto;
-	width: 1400px;
+	width: 1300px;
+	
 	
 		
 
